@@ -1,0 +1,7 @@
+Age = input("Enter your age : ")
+Age = int(Age)
+if Age >= 14:
+	print("You can watch movie")
+else:
+	print("Sorry,you cannot watch movie")
+
